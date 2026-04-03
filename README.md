@@ -56,7 +56,7 @@ The dataset used in this project includes:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+![alt text](<Screenshot 2026-04-03 145455-1.png>)
 
 ---
 
